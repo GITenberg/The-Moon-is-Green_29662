@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25421
     wikipedia: http://en.wikipedia.org/wiki/Fritz_Leiber
 description: Cover; Title Page; Copyright Page; The Moon is Green
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29662#The-Moon-is-Green
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-08-10'
 gutenberg_type: Text
